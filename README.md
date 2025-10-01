@@ -5,14 +5,14 @@ title: "Home"
 ---
 
 # 👩‍🔬 Thyagi Parindya
-Biotechnology Student | Aspiring Genetic Engineer | Innovator
+Biotechnology Student | Aspiring creative thinker | Innovator
 
 ![Profile Photo](profile pic.jpg){:style="border-radius:50%;max-width:150px;"}
 
 ---
 
 ## 🌟 About Me
- I'm Thtagi Parindya, a driven and enthusiastic biotechnology student with a passion for genetic engineering, molecular biology, microbiology, biopharmaceuticals, and plant tissue culture. I'm excited to apply my knowledge and skills to contribute to innovative solutions in the biotechnology industry. I'm a proactive individual who thrives on facing challenges and finding groundbreaking solutions.
+ I'm Thyagi Parindya, a driven and enthusiastic biotechnology student with a passion for genetic engineering, molecular biology, microbiology, biopharmaceuticals, and plant tissue culture. I'm excited to apply my knowledge and skills to contribute to innovative solutions in the biotechnology industry. I'm a proactive individual who thrives on facing challenges and finding groundbreaking solutions.
 
 ---
 
@@ -88,6 +88,4 @@ Certificate in Level 8 Spoken English from Wendy Whatmore Academy, enhancing my 
 ---
 
 © 2025 Thyagi Parindya | Biotechnology Portfolio
-remote_theme: pages-themes/time-machine@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+
