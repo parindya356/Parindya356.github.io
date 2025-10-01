@@ -6,7 +6,7 @@ title: "Home"
 
 # 👩‍🔬 Thyagi Parindya
 Biotechnology Student | Aspiring creative thinker | Innovator
-
+<img src="profile pic">
 ![Profile Photo](profile pic.jpg){:style="border-radius:50%;max-width:150px;"}
 
 ---
@@ -77,7 +77,8 @@ Certificate in Level 8 Spoken English from Wendy Whatmore Academy, enhancing my 
 - Proven team spirit and leadership with responsibility.
 ---
 ## 📜 Download My Resume  
-[➡ Resume (PDF)](HS25519276 resume.pdf)  
+<a href="HS25510276 resume.pdf">
+(HS25519276 resume.pdf)</a>  
 
 ---
 
