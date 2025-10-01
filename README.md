@@ -88,4 +88,7 @@ Certificate in Level 8 Spoken English from Wendy Whatmore Academy, enhancing my 
 ---
 
 © 2025 Thyagi Parindya | Biotechnology Portfolio
+remote_theme: pages-themes/architect@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 
